@@ -1,2 +1,4 @@
 Lenovo
 HP
+Asus
+Apple
